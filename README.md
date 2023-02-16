@@ -1,11 +1,15 @@
 <h2 align="center">Knowledge is everything.</h2>
 <pre class="highlight">
    <code>
-    .data
-        message: "Hello World!"
-    .text
-        li $v0, 4
-        la $a0, message
+    section .data
+        message db "Hello World!", 0xA
+        size EQU $-message
+    section .text
+        global _start
+    start:
+        mov rax, 1
+        mov rsi, mensagem
+        mov rdx, size
         syscall
    </code>
 </pre>
