@@ -1,5 +1,3 @@
-![gif](https://user-images.githubusercontent.com/123229117/219307730-ecd7a936-9701-44f2-ab16-faebbcc0bd09.gif)
-
 <hr>
 
 <pre class="highlight">
@@ -30,5 +28,7 @@
     <li>Newbie Hardware Hacking</li>
   </ul>
 </blockquote>
+
+![gif](https://user-images.githubusercontent.com/123229117/219307730-ecd7a936-9701-44f2-ab16-faebbcc0bd09.gif)
 
 <hr>
