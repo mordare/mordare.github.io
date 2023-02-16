@@ -1,4 +1,4 @@
-<h3 align="center">Knowledge is everything.</h3>
+<h2 align="center">Knowledge is everything.</h2>
 <pre class="highlight">
    <code>
     .data
