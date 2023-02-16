@@ -2,6 +2,17 @@
 
 <hr>
 
+<pre class="highlight">
+   <code>
+    .data
+        message: "Hello World!"
+    .text
+        li $v0, 4
+        la $a0, message
+        syscall
+   </code>
+</pre>
+
 <h3><em>My favorite languages:</em></h3>
 <blockquote>
   <ul>
