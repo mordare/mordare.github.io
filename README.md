@@ -1,4 +1,3 @@
-<hr>
 <h3 align="center">Knowledge is everything.</h3>
 <pre class="highlight">
    <code>
@@ -28,5 +27,3 @@
     <li>Newbie Hardware Hacking</li>
   </ul>
 </blockquote>
-
-<hr>
