@@ -9,7 +9,7 @@
         syscall
    </code>
 </pre>
-<a class="btn btn-github" href="https://github.com/mordare/">My Github</a>
+
 <h3><em>My favorite languages:</em></h3>
 <blockquote>
   <ul>
@@ -27,3 +27,4 @@
     <li>Newbie Hardware Hacking</li>
   </ul>
 </blockquote>
+<a class="btn btn-github" href="https://github.com/mordare/">My Github</a>
