@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&animation=fadeIn&section=header&text=Welcome!,%20i%20am%20Mordare&fontSize=50&theme=tokyonight)
+![gif](https://user-images.githubusercontent.com/123229117/219307730-ecd7a936-9701-44f2-ab16-faebbcc0bd09.gif)
 
 <hr>
 
