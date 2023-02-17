@@ -19,7 +19,7 @@
   <ul>
     <li><em>PHP</em></li>
     <li><em>Mysql</em></li>
-    <li><em>Assembly MIPS</em></li>
+    <li><em>Assembly</em></li>
     <li><em>Shell Script</em></li>
   </ul>
 </blockquote>
